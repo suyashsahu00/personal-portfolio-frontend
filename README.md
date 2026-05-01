@@ -4,8 +4,7 @@ A clean, minimal, and responsive personal portfolio website built with HTML and 
 
 ## 🚀 Live Demo
 
-
-*(Link your GitHub Pages or Vercel deployment here )*
+_(Link your GitHub Pages or Vercel deployment here )_
 
 ## ✨ Features
 
@@ -27,16 +26,19 @@ A clean, minimal, and responsive personal portfolio website built with HTML and 
    ```bash
    git clone https://github.com/suyashsahu00/personal-portfolio-frontend.git
    ```
+
 2. **Navigate to the directory**:
 
    ```bash
    cd personal-portfolio-frontend
    ```
+
 3. **Install dependencies**:
 
    ```bash
    npm install
    ```
+
 4. **Run the development server**:
 
    ```bash
@@ -60,4 +62,4 @@ This project is open-source and available under the [MIT License](LICENSE).
 
 ---
 
-*Created with 💚 by [Suyash Sahu](https://github.com/suyashsahu00)*
+_Created with 💚 by [Suyash Sahu](https://github.com/suyashsahu00)_
